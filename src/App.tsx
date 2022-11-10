@@ -5,10 +5,10 @@ import { Layout, Box } from './components';
 function App() {
   return (
     <>
-      <Layout>
-        {/* <Box /> */}
-        asdge
-      </Layout>
+      {/* <Layout>
+        <Box />
+      </Layout> */}
+      About
     </>
   );
 }
